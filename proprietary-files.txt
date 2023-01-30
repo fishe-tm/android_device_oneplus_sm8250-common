@@ -13,6 +13,8 @@ vendor/lib64/libadsp_default_listener.so
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
 # ADSP modules
+odm/lib/rfsa/adsp/aiboost/libaiboostsr_skel_v66.so
+odm/lib/rfsa/adsp/aiboost/libaiboostubwc_skel.so
 odm/lib/rfsa/adsp/hta_lib/libhta_dsp_skel.so
 odm/lib/rfsa/adsp/libaiboost_skel.so
 odm/lib/rfsa/adsp/libaiboost_skel_v65.so
@@ -125,6 +127,11 @@ system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
 odm/bin/vl53l1_daemon_main
 odm/etc/camera/fb_default
 odm/etc/camera/fwk_config.json
+odm/lib/libaiboost_nnlib_sr.so
+odm/lib/libaiboost_sr.so
+odm/lib/libaiboost_ubwc.so
+odm/lib/libosie_process.so
+odm/lib/libosie_stub.so
 odm/lib64/camera/components/com.qti.stats.pdlib.so
 odm/lib64/camera/components/libipebpsstriping.so
 odm/lib64/camera/fdconfigpreview.bin
@@ -132,6 +139,11 @@ odm/lib64/camera/fdconfigpreviewlite.bin
 odm/lib64/camera/fdconfigvideo.bin
 odm/lib64/camera/fdconfigvideolite.bin
 odm/lib64/libSonyIMX471RmscLibrary.so
+odm/lib64/libaiboost.so
+odm/lib64/libaiboost_hexagon.so
+odm/lib64/libaiboost_nnlib_sr.so
+odm/lib64/libaiboost_sr.so
+odm/lib64/libaiboost_ubwc.so
 odm/lib64/libaiboost.so
 odm/lib64/libaiboost_hexagon.so
 odm/lib64/libfastov_dsp.so
